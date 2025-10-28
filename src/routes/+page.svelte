@@ -64,7 +64,7 @@
 /* Hero Section */
 .hero {
   position: relative;
-  margin-top: 70px; /* space below navbar */
+  /* margin-top: 70px; */
   text-align: center;
   color: white;
   overflow: hidden;
