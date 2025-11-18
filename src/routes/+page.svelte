@@ -9,8 +9,8 @@
   <div class="nav-container">
     <a href="/" class="logo">PCS Tracker</a>
     <div class="nav-links">
-      <a href="/about">About</a>
-      <a href="/contact">Contact</a>
+      <a href="src/routes/about/+page.svelte">About</a>
+      <a href="src/routes/history/+page.svelte">History</a>
     </div>
   </div>
 </nav>
