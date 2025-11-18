@@ -1,10 +1,10 @@
 <script>
   import { onMount } from 'svelte';
-  import L from 'leaflet';
-  import 'leaflet/dist/leaflet.css';
+  import { browser } from '$app/environment';
   
   let mapContainer;
   let map;
+  let L; // Declare L here, import it later
   
   // Your GeoJSON data (replace with your actual data or fetch it)
   let clinicData = {
@@ -674,12 +674,17 @@
   };
   
   onMount(async () => {
-    // Optional: Fetch GeoJSON from file
-    // const response = await fetch('/path/to/your/clinics.geojson');
-    // clinicData = await response.json();
-    
-    // Initialize map centered on Berkeley area
-    map = L.map(mapContainer).setView([37.8716, -122.2727], 10);
+    // Only import Leaflet in the browser
+    if (browser) {
+      L = (await import('leaflet')).default;
+      await import('leaflet/dist/leaflet.css');
+      
+      // Optional: Fetch GeoJSON from file
+      // const response = await fetch('/clinics.geojson');
+      // clinicData = await response.json();
+      
+      // Initialize map centered on Berkeley area
+      map = L.map(mapContainer).setView([37.8716, -122.2727], 10);
     
     // Add tile layer (OpenStreetMap)
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -756,7 +761,7 @@
       const bounds = L.geoJSON(clinicData).getBounds();
       map.fitBounds(bounds, { padding: [50, 50] });
     }
-  });
+  }});
   
   // Cleanup on component destroy
   import { onDestroy } from 'svelte';
