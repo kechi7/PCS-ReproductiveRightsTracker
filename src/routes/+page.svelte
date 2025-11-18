@@ -1,7 +1,5 @@
 <script>
-  import ClinicMap from '$lib/ClinicMap.svelte';
-  // Or if you put it in components folder:
-  // import ClinicMap from '../components/ClinicMap.svelte';
+  import ClinicMap from '../ClinicMap.svelte';
 </script>
 
 <!-- Navigation -->
