@@ -1,21 +1,22 @@
-
 <script>
-//  let welcomeMessage = "Welcome to PCS Reproductive Rights Tracker!";
+  import ClinicMap from '$lib/ClinicMap.svelte';
+  // Or if you put it in components folder:
+  // import ClinicMap from '../components/ClinicMap.svelte';
 </script>
 
 <!-- Navigation -->
-<!-- This is all the information for the nav bar. In HTML so this is where you can change the text in the navBar, add images, etc. -->
 <nav class="navbar">
   <div class="nav-container">
     <a href="/" class="logo">PCS Tracker</a>
     <div class="nav-links">
+      <a href="#map">Clinic Map</a>
       <a href="/about">About</a>
       <a href="/contact">Contact</a>
     </div>
   </div>
 </nav>
 
-<!-- Hero Section (Title and GIF ) -->
+<!-- Hero Section (Title and GIF) -->
 <section class="hero">
   <img src="https://media.giphy.com/media/HzMfJIkTZgx8s/giphy.gif" alt="Background GIF" class="hero-gif" />
   <div class="hero-text">
@@ -24,8 +25,15 @@
   </div>
 </section>
 
-<!-- In the style section this is where all the CSS for this page is stored  -->
- <!-- This is where you can change the appearance for the webpage if it isnt hard coded in the HTML section -->
+<!-- Map Section -->
+<section id="map" class="map-section">
+  <div class="map-container">
+    <h2>Find Reproductive Health Clinics</h2>
+    <p class="map-description">Explore clinics offering reproductive health services in your area. Click on markers to view services, payment information, and contact details.</p>
+    <ClinicMap />
+  </div>
+</section>
+
 <style> 
 .navbar {
   position: fixed;
@@ -50,21 +58,24 @@
   color: white;
   text-decoration: none;
   font-weight: bold;
+  transition: all 0.3s ease;
 }
 
 .nav-links a:hover {
   text-decoration: underline;
+  color: #ddd;
 }
 
 .logo {
   font-size: 1.5rem;
   font-weight: bold;
+  color: white;
+  text-decoration: none;
 }
 
 /* Hero Section */
 .hero {
   position: relative;
-  /* margin-top: 70px; */
   text-align: center;
   color: white;
   overflow: hidden;
@@ -82,20 +93,53 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  max-width: 80%;       /* prevents text from stretching too wide */
-  padding: 0 20px;      /* adds horizontal breathing room */
+  max-width: 80%;
+  padding: 0 20px;
 }
 
 .hero-text h1 {
   font-size: 3rem;
-  line-height: 1.2;     /* adds spacing between lines */
+  line-height: 1.2;
   margin-bottom: 20px;
 }
 
 .hero-text p {
   font-size: 1.5rem;
-  line-height: 1.5;     /* more readable paragraph spacing */
+  line-height: 1.5;
 }
 
-</style>
+/* Map Section */
+.map-section {
+  padding: 60px 20px;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  min-height: 100vh;
+}
 
+.map-container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.map-container h2 {
+  font-size: 2.5rem;
+  color: #1e40af;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.map-description {
+  font-size: 1.1rem;
+  color: #4b5563;
+  text-align: center;
+  margin-bottom: 30px;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.6;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+</style>

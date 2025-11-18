@@ -5,20 +5,20 @@
 /* Global styles */
 body {
   font-family: Arial, sans-serif;
-  background-color: #f9fafb;
-  color: #111827;
+  background-color: #d8c0eb;
+  color: #662d90;
   margin: 0;
   padding: 0;
 }
 
 h1, h2, h3 {
   font-weight: bold;
-  color: #1f2937;
+  color: #662d90;
 }
 a {
   text-decoration: none;
-  color: #1d4ed8;
+  color: #662d90;
 }
 a:hover {
-  color: #2563eb;
+  color: #d8c0eb;
 }
