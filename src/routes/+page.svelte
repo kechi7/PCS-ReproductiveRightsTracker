@@ -8,10 +8,8 @@
     <a href="/" class="logo">PCS Tracker</a>
     <div class="nav-links">
       <a href="#map">Clinic Map</a>
-      <a href="/about">About</a>
-      <a href="/contact">Contact</a>
       <a href="src/routes/about/+page.svelte">About</a>
-      <a href="src/routes/history/+page.svelte">History</a>
+      <a href="src/routes/policy/+page.svelte">Policy</a>
     </div>
   </div>
 </nav>
