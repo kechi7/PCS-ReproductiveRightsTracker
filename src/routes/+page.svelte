@@ -44,7 +44,7 @@
       <div class="footer-grid">
         <!-- Brand Section -->
         <div class="footer-brand">
-          <h3>Your Organization</h3>
+          <h3>Reproductive Rights Tracker</h3>
           <p>Dedicated to advancing reproductive rights and healthcare access for all.</p>
           <div class="social-links">
             <a href="https://pcs.studentorg.berkeley.edu/about" aria-label="Instagram" class="social-link">📷</a>
@@ -58,7 +58,6 @@
           <ul>
             <li><a href="/about">Our Mission</a></li>
             <li><a href="/about/team">Team</a></li>
-            <li><a href="/careers">Careers</a></li>
             <li><a href="/contact">Contact</a></li>
           </ul>
         </div>
@@ -80,7 +79,7 @@
 
       <!-- Bottom Bar -->
       <div class="footer-bottom">
-        <p>&copy; <span id="year"></span> Berkeley Political Computer Science. All rights reserved.</p>
+        <p>&copy; <span id="year"></span> Political Computer Science @ Berkeley. All rights reserved.</p>
         <p class="tagline">Empowering informed choices through education and advocacy.</p>
       </div>
     </div>
