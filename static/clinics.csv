@@ -1,0 +1,662 @@
+index,clinic,address,county,website,database,abortion,birth_control,emergency_contraception,gender_affirming_care,hiv_services,mental_health,std_testing_and_treatment,sexual_and_reproductive_concerns,iud_insertion_pain_management,vaccines,wellness_and_preventive_care,languages_offered_in,notes,pregancy_testing,payment_information,prenatal_and_postpartum_services,latitude,longitude
+1,Redwood City Health Center,"2907 El Camino Real Redwood City, CA 94061",San Mateo,https://www.plannedparenthood.org/health-center/california/redwood-city/94061/redwood-city-health-center-4129-90130,Planned Parenthood,abortion pill up to 11 weeks,"in person & telehealth; birth control counseling, emergency contraception pills, fertility awareness methods (FAMs); birth control implant, IUD; birth control patch, birth control ring (NuvaRing), birth control shot; birth control sponge, condoms, spermicide and gel (phexxi);; birth control pill
+implant (Nexplanon)
+IUD
+non-hormonal/copper IUD
+hormonal IUD
+birth control shot (Depo-Provera)",in person & telehealth; IUD as emergency contraception;; Over-the-counter EC pill,"in person & telehealth; surgery referrals, gender affirming hormone therapy","in person & telehealth; hiv testing, hiv treatment support and referrals",telehealth,"in person & telehealth; Testing and Treatment
+Chlamydia
+Genital warts
+Gonorrhea
+Herpes
+Syphilis
+Trichomoniasis (trich)
+STD/STI Prevention
+Condoms
+HPV vaccine;; syphilis
+gonorrhea
+chlamydia
+HIV","in person; Infections and irritations
+Jock itch
+Sexual health concerns
+Reproductive health concerns
+Checkups for reproductive/sexual health concerns
+Infertility support and referral
+Sexual issues
+Premature ejaculation","non-hormonal/copper IUD
+hormonal IUD",in person; HPV vaccine,"in person & telehealth; Cancer Prevention And Screening
+Chest/breast cancer screening and referral
+Cervical cancer screening (HPV/Pap test)
+Colon cancer screening
+Testicular and prostate cancer screening
+Wellness Visits And Support
+Menopause treatment
+Postpartum visit
+Other Services
+Behavioral Health Counseling
+Mental Health Services
+Integrated Behavioral Health",Spanish and Cantonese; interpreters available with advance notice,,,,,37.4693498,-122.2112366
+2,Concord Health Center,"2185 Pacheco Street
+Concord, CA 94520",Contra Costa,https://www.plannedparenthood.org/health-center/california/concord/94520/concord-health-center-3269-90200,Planned Parenthood,abortion pill up to 11 weeks,"BC Implant
+Vasectomy 
+IUD
+ring
+shot
+NuvaRing","Emergency contraception (EC)
+IUD as emergency contraception",,,,,,,,,,,,,,37.979058,-122.0347415
+3,Walnut Creek Health Center,"1357 Oakland Blvd.
+Walnut Creek, CA 94596",Contra Costa,https://www.plannedparenthood.org/health-center/california/walnut-creek/94596/walnut-creek-health-center-2571-90200,Planned Parenthood,"abortion pill up to 11 weeks
+In-Clinic Abortion up to 18 weeks ","Implant 
+IUD
+Patch
+Pill
+NuvaRing
+Shot","EC
+IUD as emergency contraception","Hormone Therapy
+Surgery Referals 
+Education 
+Resources ","HIV Testing
+HIV Treatment support and referrals ",,"Chlamydia
+Genital warts
+Gonorrhea
+Herpes
+Syphilis
+Trichomoniasis (trich)","Infections and irritations
+
+Jock itch
+Sexual health concerns
+Reproductive health concerns
+
+Checkups for reproductive/sexual health concerns
+Fibroids
+Infertility support and referral",,"Hepatitis B vaccine
+Hepatitis B vaccine (first dose)
+HPV vaccine","Cancer Prevention And Screening
+
+Abnormal Pap test follow-up (Colposcopy, Cryotherapy, LEEP)
+Chest/breast cancer screening and referral
+Cervical cancer screening (HPV/Pap test)
+Wellness Visits And Support
+
+Menopause treatment",,,,,,37.8978575,-122.0705378
+4,Oakland Health Center,"1400 Broadway
+Oakland, CA 94612",Alameda,https://www.plannedparenthood.org/health-center/california/oakland/94612/oakland-health-center-21934-90130,Planned Parenthood database,"Abortion pill up to 11 weeks, in-clinic abortions up to 20 weeks",,Emergency contraception pill (morning after pill),Care offered (nonspecific),HIV testing and treatment offered,No description,"Chlamydia, Gonorrhea, Trich, Herpes, Genital warts, Molluscum, Syphilis
+ ","birth control, pregnancy testing and planning services, prenatal and postpartum services for mothers","IUD insertion offered, pain management offerings not specified",,,no information,"accepts Medicaid
+Medicaid Family Planning Benefits Program
+Medicaid for Pregnant Women
+Medi-Cal
+Family PACT",,,,37.8043923,-122.2709468
+5,El Cerritto Health Center,"280 El Cerrito Plaza
+El Cerrito, CA 94530",Alameda,https://www.plannedparenthood.org/health-center/california/el-cerrito/94530/el-cerrito-health-center-3940-90200,Planned Parenthood database,"Abortion pill up to 11 weeks, in-clinic abortions up to 13 weeks and 6 days","EC pills, IUD, birth control patch + pill, ring, shot, condoms, cervical cap, spermicide, birth control counseling, fertility awareness methods, birth control implant, IUD, Gel (Phexxi)",Offers emergency contraception pills and IUD as emergency contraception,"Hormone therapy, Surgery referrals, educational resources",HIV testing and treatment referrals,"wellness visits for menopause offered, support for infertility","hepatitis and hpv vaccines, Chlamydia
+Genital warts
+Gonorrhea
+Herpes
+Syphilis
+Trichomoniasis (trich) testing","Checkups for reproductive/sexual health concerns, fibroids, infertility support and referral, resources for sexual health concerns",IUD insertion offered.,hepatitis B and HPV,"Abnormal Pap test follow-up (Colposcopy, Cryotherapy, LEEP), Chest/breast cancer screening and referral, Cervical cancer screening (HPV/Pap test), menopause treatment",no available information,,,,,37.8992575,-122.2983939
+6,Napa Health Center,"935 Trancas Street Unit 4D
+Napa, CA 94558",Napa,https://www.plannedparenthood.org/health-center/california/napa/94558/napa-health-center-2702-90200,Planned Parenthood,Abortion pill up to 11 weeks,"EC pills, Birth Control Implant, IUD, birth control patch, birth control pill, NuvaRing, birth control shot, birth control sponge, cervical caps, condoms, diaphragm, spermicide and gel(phexxi)","emergency contraception pills, IUD as emergency contraception","Hormone therapy
+Surgery referrals
+Education
+Resources","HIV testing
+HIV treatment support and referrals",,"testing and treatment for Chlamydia
+Genital warts
+Gonorrhea
+Herpes
+Syphilis
+Trichomoniasis (trich) / Condoms
+Hepatitis B vaccine (first dose)
+HPV vaccine for prevention","Jock itch
+Sexual health concerns, Checkups for reproductive/sexual health concerns
+Fibroids
+Infertility support and referral",IUD offered,"Hepatitis B vaccine
+Hepatitis B vaccine (first dose)
+HPV vaccine","Abnormal Pap test follow-up (Colposcopy, Cryotherapy, LEEP)
+Chest/breast cancer screening and referral
+Cervical cancer screening (HPV/Pap test), menopause treatment","English, Spanish","Insurance accepted: Anthem Blue Cross
+Blue Shield of California
+Contra Costa Health Plan
+Oscar Health Plan of California
+Partnership Health Plan of CA",,,,38.3228422,-122.294775
+7,Planned Parenthood- Vallejo Health Center,"303 Sacramento St, Vallejo CA 94590",Solano,https://www.plannedparenthood.org/health-center/california/vallejo/94590/centro-de-salud-vallejo-2699-90200?utm_campaign=vallejo-health-center&utm_medium=organic&utm_source=local-listing,Planned Parenthood database,"depending on the stage of pregnancy they provide an abortion pill up to 11 weeks and 0 days after 1st menstrual period
+Abortion pill is by appointment only
+","birth control implant (Nexplanon)
+IUD
+Emergency contraception pill
+Birth control pill
+Birth control patch
+Birth control shot 
+Birth control ring (Nuva Ring)",Emergency contraception pill (morning after pill),Hormone therapy,counseling and confidential (private testing) for HIV,not offered,"testing and treatment for Chlamydia
+Genital warts
+Gonorrhea
+Herpes
+Syphilis
+Trichomoniasis (trich) / Condoms
+Hepatitis B vaccine (first dose)
+HPV vaccine for prevention",checkups for reproductive/ sexua health concerns are offered via inperson appointment,IUD insertion offered,HPV Vaccine,Cervical cancer screening (HPV/Pap test),"English, Spanish","Insurance accepted: Anthem Blue Cross
+Blue Shield of California
+Contra Costa Health Plan
+Oscar Health Plan of California
+Partnership Health Plan of CA",,,,38.0997068,-122.259051
+8,Fairfield Health Center,"1325 Travis Blvd. #C
+Fairfield, CA 94533",Solano,https://www.plannedparenthood.org/health-center/california/fairfield/94533/fairfield-health-center-2700-90200,Planned Parenthood,"abortion pill up to 11 weeks, in-clinic abortion up to 18 weeks","Birth Control implant
+IUD, Birth control patch
+Birth Control pill
+Birth control ring (NuvaRing)
+Birth Control shot, Birth control sponge
+Cervical cap
+Condoms
+Diaphragm
+Spermicide and Gel (Phexxi)","Emergency contraception pills
+IUD as emergency contraception","Surgery referrals, education, resources","HIV testing
+HIV treatment support and referrals",available,"testing and treatment for Chlamydia
+Genital warts
+Gonorrhea
+Herpes
+Syphilis
+Trichomoniasis (trich) / Condoms
+Hepatitis B vaccine (first dose)
+HPV vaccine for prevention","Jock itch
+Sexual health concerns, Checkups for reproductive/sexual health concerns
+Fibroids
+Infertility support and referral",IUD offered,"Hepatitis B vaccine
+Hepatitis B vaccine (first dose)
+HPV vaccine","Abnormal Pap test follow-up (Colposcopy, Cryotherapy, LEEP)
+Chest/breast cancer screening and referral
+Cervical cancer screening (HPV/Pap test), menopause treatment","English, Spanish","Insurance accepted: Anthem Blue Cross
+Blue Shield of California
+Contra Costa Health Plan
+Oscar Health Plan of California
+Partnership Health Plan of CA",,,,38.2576276,-122.0519842
+9,San Francisco Health Center,"1522 Bush Street
+San Francisco, CA 94109",San Francisco,https://www.plannedparenthood.org/health-center/california/san-francisco/94109/san-francisco-health-center-3997-90200,Planned Parenthood,"abortion pill up to 11 weeks, in-clininc abortion up to 18 weeks","Birth Control implant
+IUD, Birth control patch
+Birth Control pill
+Birth control ring (NuvaRing)
+Birth Control shot, Birth control sponge
+Cervical cap
+Condoms
+Diaphragm
+Spermicide and Gel (Phexxi)","Emergency contraceptions,IUD as concraception","Hormone therapy, Surgery referrals, educational resources","HIV testing
+HIV treatment support and referrals",,"Chlamydia
+Genital warts
+Gonorrhea
+Herpes
+Syphilis
+Trichomoniasis (trich)
+
+Condoms
+Hepatitis B vaccine (first dose)
+HPV vaccine","Jock itch
+Sexual health concerns
+Checkups for reproductive/sexual health concerns
+Fibroids
+Infertility support and referral",IUD,"Hepatitis B vaccine
+Hepatitis B vaccine (first dose)
+HPV vaccine",,"English, Spanish",,,,,37.7886494,-122.422614
+10,Antioch Health Center,"3670 Delta Fair Boulevard
+Antioch, CA 94509",Contra Costa,https://www.plannedparenthood.org/health-center/california/antioch/94509/antioch-health-center-2573-90200,Planned Parenthood,abortion pill up to 11 weeks; in-clinic abortion up to 13 weeks and 6 days,"Education and lifestyle
+Birth control counseling
+Emergency contraception pills
+Fertility Awareness Methods (FAMs)
+Low maintenance
+Birth Control implant
+IUD
+Used on a schedule
+Birth control patch
+Birth Control pill
+Birth control ring (NuvaRing)
+Birth Control shot
+Used every time
+Birth control sponge
+Cervical cap
+Condoms
+Diaphragm
+Spermicide and Gel (Phexxi)","Emergency contraception pills
+IUD as emergency contraception","Hormone therapy
+Surgery referrals
+Education
+Resources","HIV testing
+HIV treatment support and referrals",,"Testing and Treatment
+Chlamydia
+Genital warts
+Gonorrhea
+Herpes
+Syphilis
+Trichomoniasis (trich)
+STD/STI Prevention
+Condoms
+Hepatitis B vaccine (first dose)
+HPV vaccine","Infections and irritations
+Jock itch
+Sexual health concerns
+Reproductive health concerns
+Checkups for reproductive/sexual health concerns
+Fibroids
+Infertility support and referral",IUD,"Hepatitis B vaccine
+Hepatitis B vaccine (first dose)
+HPV vaccine","Cancer Prevention And Screening
+Abnormal Pap test follow-up (Colposcopy, Cryotherapy, LEEP)
+Chest/breast cancer screening and referral
+Cervical cancer screening (HPV/Pap test)
+Wellness Visits And Support
+Menopause treatment
+Postpartum visit",Spanish,"Insurance accepted We accept:
+
+Anthem Blue Cross
+Blue Shield of California
+Contra Costa Health Plan
+Oscar Health Plan of California
+Partnership Health Plan of CA",,,,38.0049497,-121.8441851
+11,San Rafael Health,"2 H Street, San Rafael, Ca94901",Marin,https://www.plannedparenthood.org/health-center/california/antioch/94509/antioch-health-center-2573-90200,Planned Parenthood,abortion pill up to 11 weeks; in-clinic abortion up to 13 weeks and 6 days,"Birth control counseling
+Emergency contraception pills
+Fertility Awareness Methods (FAMs)
+Vasectomy
+Birth Control implant
+IUD
+Birth control patch
+Birth Control pill
+Birth control ring (NuvaRing)
+Birth Control shot
+Birth control sponge
+Cervical cap
+Condoms
+Diaphragm
+Spermicide and Gel (Phexxi)","Emergency contraception pills
+IUD as emergency contraception","Hormone therapy
+Surgery referrals
+Education
+Resources","HIV testing
+HIV treatment support and referrals",,"Testing and Treatment
+Chlamydia
+Genital warts
+Gonorrhea
+Herpes
+Syphilis
+Trichomoniasis (trich)
+STD/STI Prevention
+Condoms
+Hepatitis B vaccine (first dose)
+HPV vaccine","Infections and irritations
+Jock itch
+Sexual health concerns
+Reproductive health concerns
+Checkups for reproductive/sexual health concerns
+Fibroids
+Infertility support and referral",,"
+Hepatitis B vaccine (first dose)
+HPV vaccine","Cancer Prevention And Screening
+Abnormal Pap test follow-up (Colposcopy, Cryotherapy, LEEP)
+Chest/breast cancer screening and referral
+Cervical cancer screening (HPV/Pap test)
+Wellness Visits And Support
+Menopause treatment
+Vasectomy",Spanish,Pregnancy tetsing section is mising from some pp centers,"Adoption information and referrals
+Discuss all pregnancy options
+Pregnancy Dating (Ultrasound)
+Pregnancy test
+Fertility and pregnancy planning
+Infertility support and referral",Major Credit/Debit Cards. Cash,,37.9743646,-122.5384097
+12,Virtual Health Center at PPNorCal,California,Contra Costa,,Planned Parenthood,abortion pill up to 11 weeks,appointment,,,,,,,,,,,,,,,36.778261,-119.4179324
+13,Hayward Health Center,"1032 A Street Hayward, CA 94541",Alameda,https://www.plannedparenthood.org/health-center/california/hayward/94541/hayward-health-center-4150-90130,Planned Parenthood,abortion pill up to 11 weeks,"Birth control counseling
+Emergency contraception pills
+Fertility Awareness Methods (FAMs)
+Birth Control implant
+IUD
+Birth control patch
+Birth control ring (NuvaRing)
+Birth Control shot
+Birth control sponge
+Condoms
+Spermicide and Gel (Phexxi)","Emergency contraception pills
+IUD as emergency contraception","
+Hormone therapy
+Surgery referrals
+Education
+Resources","HIV testing
+HIV treatment support and referrals",,"Testing and Treatment
+Chlamydia
+Genital warts
+Gonorrhea
+Herpes
+Syphilis
+Trichomoniasis (trich)
+STD/STI Prevention
+Condoms
+HPV vaccine","Infections and irritations
+Jock itch
+Sexual health concerns
+Reproductive health concerns
+Checkups for reproductive/sexual health concerns
+Infertility support and referral
+Sexual issues
+Premature ejaculation",,HPV vaccine,"Cancer Prevention And Screening
+Chest/breast cancer screening and referral
+Cervical cancer screening (HPV/Pap test)
+Testicular and prostate cancer screening
+Wellness Visits And Support
+Menopause treatment
+Postpartum visit","spanish,",,"Pregnancy Testing And Options
+Adoption information and referrals
+Discuss all pregnancy options
+Pregnancy test
+Pregnancy Planning
+Fertility and pregnancy planning
+Infertility support and referral",,,37.6746302,-122.0834222
+14,Mountain View Health Center,"2500 California Street
+Mountain View, CA 94040",Santa Clara,https://www.plannedparenthood.org/health-center/california/mountain-view/94040/mountain-view-health-center-2310-90130,Planned Parenthood,abortion pill up to 11 weeks,"Birth control counseling
+Emergency contraception pills
+Fertility Awareness Methods (FAMs)
+Birth Control implant
+IUD
+Birth control patch
+Birth control ring (NuvaRing)
+Birth Control shot
+Birth control sponge
+Condoms
+Spermicide and Gel (Phexxi)","Emergency contraception pills
+IUD as emergency contraception","Hormone therapy
+Surgery referrals
+Resources","HIV testing
+HIV treatment support and referrals",,"STD/STI Services
+Testing and Treatment
+Chlamydia
+Genital warts
+Gonorrhea
+Herpes
+Syphilis
+Trichomoniasis (trich)
+STD/STI Prevention
+Condoms
+Hepatitis B vaccine (first dose)
+HPV vaccine","Infections and irritations
+Jock itch
+Sexual health concerns
+Reproductive health concerns
+Checkups for reproductive/sexual health concerns
+Infertility support and referral
+Sexual issues
+Premature ejaculation",,"Hepatitis B vaccine
+Hepatitis B vaccine (first dose)
+HPV vaccine
+Flu vaccine","Cancer Prevention And Screening
+Chest/breast cancer screening and referral
+Cervical cancer screening (HPV/Pap test)
+Colon cancer screening
+Testicular and prostate cancer screening
+Primary Care Screening
+Anemia testing
+Cholesterol screening
+Diabetes screening
+High blood pressure screening
+Thyroid screening
+Wellness Visits And Support
+Menopause treatment
+Postpartum visit($55 - $128)
+Smoking cessation
+Wellness visit (annual exam, routine check up, etc.)","Spanish, tagalog, hindi",,"Pregnancy Testing And Options
+Adoption information and referrals
+Discuss all pregnancy options
+Pregnancy test($15 - $25)
+Pregnancy Planning
+Fertility and pregnancy planning
+Infertility support and referral",,"Miscarriage And Postpartum Care
+Miscarriage care and support
+Postpartum visit($55 - $128)
+Other Services
+Discuss all pregnancy options
+Pregnancy test($15 - $25)",37.4034925,-122.1061518
+15,Hilltop-Richmond Health Center,"2970 Hilltop Mall Road #307
+Richmond, CA 94806",Contra Costa,https://www.plannedparenthood.org/health-center/california/richmond/94806/hilltop-richmond-health-center-2791-90200,Planned Parenthood,"Abortion: up to 11 weeks
+In-clinic: up to 13 weeks and 6 days","Birth control counseling
+Emergency contraception pills
+Fertility Awareness Methods (FAMs)
+Birth Control implant
+IUD
+Birth control patch
+Birth Control pill
+Birth control ring (NuvaRing)
+Birth Control shot
+Birth control sponge
+Cervical cap
+Condoms
+Diaphragm
+Spermicide and Gel (Phexxi)","Emergency contraception pills
+IUD as emergency contraception","Hormone therapy
+Surgery referrals
+Education
+Resources","HIV testing
+HIV treatment support and referrals",offered?,"Testing and Treatment
+Chlamydia
+Genital warts
+Gonorrhea
+Herpes
+Syphilis
+Trichomoniasis (trich)
+STD/STI Prevention
+Condoms
+Hepatitis B vaccine (first dose)
+HPV vaccine","Infections and irritations
+Jock itch
+Sexual health concerns
+Reproductive health concerns
+Checkups for reproductive/sexual health concerns
+Fibroids
+Infertility support and referral",,"Vaccine services
+Hepatitis B vaccine
+Hepatitis B vaccine (first dose)
+HPV vaccine","Cancer Prevention And Screening
+Abnormal Pap test follow-up (Colposcopy, Cryotherapy, LEEP)
+Chest/breast cancer screening and referral
+Cervical cancer screening (HPV/Pap test)
+Wellness Visits And Support
+Menopause treatment",spanish,,"Pregnancy Testing And Options
+Adoption information and referrals
+Discuss all pregnancy options
+Pregnancy Dating (Ultrasound)
+Pregnancy test
+Pregnancy Planning
+Fertility and pregnancy planning
+Infertility support and referral",,,37.9775811,-122.3292435
+16,San Jose Central Health Center,"1691 The Alameda
+San Jose, CA 95126",Santa Clara,https://www.plannedparenthood.org/health-cent,Planned Parenthood,"Abortion: up to 11 weeks
+In-clinic: up to 13 weeks and 6 days","Birth control counseling
+Emergency contraception pills($20 - $40)
+Fertility Awareness Methods (FAMs)
+Birth Control implant
+IUD
+Birth control patch
+Birth control ring (NuvaRing)
+Birth Control shot
+Birth control sponge
+Condoms
+Spermicide and Gel (Phexxi)","Emergency contraception pills($20 - $40)
+IUD as emergency contraception","Hormone therapy
+Surgery referrals
+Resources","HIV testing
+HIV treatment support and referrals",,"Chlamydia
+Genital warts
+Gonorrhea
+Herpes
+Syphilis
+Trichomoniasis (trich)
+Condoms
+Hepatitis B vaccine (first dose)
+HPV vaccine","Infections and irritations
+Jock itch
+Sexual health concerns
+Reproductive health concerns
+Checkups for reproductive/sexual health concerns
+Infertility support and referral
+Sexual issues
+Premature ejaculation",,"Hepatitis B vaccine
+Hepatitis B vaccine (first dose)
+HPV vaccine
+Flu vaccine","Cancer Prevention And Screening
+Abnormal Pap test follow-up (Colposcopy, Cryotherapy, LEEP)
+Chest/breast cancer screening and referral
+Cervical cancer screening (HPV/Pap test)
+Colon cancer screening
+Testicular and prostate cancer screening
+Primary Care Screening
+Anemia testing
+Cholesterol screening
+Diabetes screening
+High blood pressure screening
+Thyroid screening
+Wellness Visits And Support
+Menopause treatment
+Postpartum visit
+Medi-cal only
+Smoking cessation
+Wellness visit (annual exam, routine check up, etc.)
+Other Services
+Tuberculosis testing
+Treatment of acute illness
+Management of chronic diseases","Spanish, Vietnamese, Tagalog, Hindi, Urdu and Mandarin",,"Pregnancy Testing And Options
+Adoption information and referrals
+Discuss all pregnancy options
+Pregnancy test($15 - $25)
+Pregnancy Planning
+Fertility and pregnancy planning
+Infertility support and referral",,"Prenatal Planning
+Prenatal services and referrals
+(Medi-cal only)
+Miscarriage And Postpartum Care
+Miscarriage care and support
+Postpartum visit
+Medi-cal only
+Other Services
+Discuss all pregnancy options
+Pregnancy test($15 - $25)",37.3371379,-121.9196217
+17,Blossom Hill Health Center,"5440 Thornwood Drive
+San Jose, CA 95123",Santa Clara,https://www.plannedparenthood.org/health-center/california/san-jose/95123/blossom-hill-health-center-3230-90130,Planned Parenthood,Abortion Pill: Up to 11 weeks,"Birth control counseling
+Emergency contraception pills
+($40)
+Fertility Awareness Methods (FAMs)
+Birth Control implant
+IUD
+Birth control patch
+Birth control ring (NuvaRing)
+Birth Control shot
+Birth control sponge
+Condoms
+Spermicide and Gel (Phexxi)","Emergency contraception pills
+($40)
+IUD as emergency contraception","Surgery referrals
+Resources","HIV testing
+HIV treatment support and referrals",,"Chlamydia
+Genital warts
+Gonorrhea
+Herpes
+Syphilis
+Trichomoniasis (trich)
+Condoms
+Hepatitis B vaccine (first dose)
+HPV vaccine","Infections and irritations
+Jock itch
+Sexual health concerns
+Reproductive health concerns
+Checkups for reproductive/sexual health concerns
+Infertility support and referral
+Sexual issues
+Premature ejaculation",,"Hepatitis B vaccine (first dose)
+HPV vaccine
+Flu vaccine","Chest/breast cancer screening and referral
+Cervical cancer screening (HPV/Pap test)
+Colon cancer screening
+Testicular and prostate cancer screening
+Anemia testing
+Cholesterol screening
+Diabetes screening","Spanish, Mandarin and Tagalog",,"Adoption information and referrals
+Discuss all pregnancy options
+Pregnancy test($20 - $60)
+Fertility and pregnancy planning
+Infertility support and referral",,"Miscarriage care and support
+Postpartum visit
+Discuss all pregnancy options
+Pregnancy test($20 - $60)",37.2537859,-121.8606196
+18,Eastside Health Center,"3131 Alum Rock Avenue
+San Jose, CA 95127",Santa Clara,https://www.plannedparenthood.org/health-center/california/san-jose/95127/eastside-health-center-2435-90130,Planned Parenthood,,,,,,,,,,,,,,,,,37.3666223,-121.8275701
+19,Mar Monte Community Clinic,"
+1694 Tully Road Suite 40
+San Jose, CA 95122",Santa Clara,https://www.plannedparenthood.org/health-center/california/san-jose/95122/mar-monte-community-clinic-2437-90130,Planned Parenthood,,,,,,,,,,,,,,,,,37.3211119,-121.8257924
+20,San Ramon Health Center,"200 Porter Drive, Suite 200, San Ramon, CA 94583",Contra Costa,https://www.plannedparenthood.org/health-center/california/san-ramon/94583/centro-de-salud-san-ramon-2572-90200,Planned Parenthood,Abortion pill up to 11 week,"Birth control counseling
+Emergency contraception pills
+Fertility Awareness Methods (FAMs)Birth Control implant
+IUD Birth control patch
+Birth Control pill
+Birth control ring (NuvaRing)
+Birth Control shot Birth control sponge
+Cervical cap
+Condoms
+Diaphragm
+Spermicide and Gel (Phexxi)","Emergency contraception pills
+IUD as emergency contraception","Hormone therapy
+Surgery referrals
+Education
+Resources","HIV testing
+HIV treatment support and referrals",,"Chlamydia
+Genital warts
+Gonorrhea
+Herpes
+Syphilis
+Trichomoniasis (trich) Condoms
+Hepatitis B vaccine (first dose)
+HPV vaccine","Jock itch
+Sexual health concerns Checkups for reproductive/sexual health concerns
+Fibroids
+Infertility support and referral
+",,"Hepatitis B vaccine
+Hepatitis B vaccine (first dose)
+HPV vaccine","Abnormal Pap test follow-up (Colposcopy, Cryotherapy, LEEP)
+Chest/breast cancer screening and referral
+Cervical cancer screening (HPV/Pap test) Menopause treatment
+
+",,,,Cash,,37.7737615,-121.9903758
+21,Santa Rosa Health Center,"1140 Sonoma Avenue Building 3, Santa Rosa, CA 95405",Sonoma,https://www.plannedparenthood.org/health-center/california/santa-rosa/95405/santa-rosa-health-center-3990-90200,Planned Parenthood,"Abortion pill up to 11 week, in-clinic abortion up to 13 weeks and 6 days","Birth control counseling
+Emergency contraception pills
+Fertility Awareness Methods (FAMs)
+
+Birth Control implant
+IUD
+
+Birth control patch
+Birth Control pill
+Birth control ring (NuvaRing)
+Birth Control shot
+Used every time
+
+Birth control sponge
+Cervical cap
+Condoms
+Diaphragm
+Spermicide and Gel (Phexxi)","Emergency contraception pills
+IUD as emergency contraception","Hormone therapy
+Surgery referrals
+Education
+Resources","HIV testing
+HIV treatment support and referrals",,"Chlamydia
+Genital warts
+Gonorrhea
+Herpes
+Syphilis
+Trichomoniasis (trich)
+
+Condoms
+Hepatitis B vaccine (first dose)
+HPV vaccine","Jock itch
+Sexual health concerns
+
+Checkups for reproductive/sexual health concerns
+Fibroids
+Infertility support and referral
+",,"Hepatitis B vaccine
+Hepatitis B vaccine (first dose)
+HPV vaccine","Abnormal Pap test follow-up (Colposcopy, Cryotherapy, LEEP)
+Chest/breast cancer screening and referral
+Cervical cancer screening (HPV/Pap test)
+
+Menopause treatment",,,,Cash,,38.4403225,-122.6994749
+22,Vallejo Health Center,"303 Sacramento Street
+Vallejo, CA 94590",Sonoma,https://www.plannedparenthood.org/health-center/california/vallejo/94590/vallejo-health-center-2699-90200,Planned Parenthood,"Abortion Pill
+Up to 11 weeks",,,,,,,,,,,"English, Spanish",,,,,38.0997068,-122.259051
