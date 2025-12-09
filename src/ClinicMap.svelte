@@ -493,40 +493,6 @@
         {
             "type": "Feature",
             "properties": {
-                "index": "12",
-                "clinic": "Virtual Health Center at PPNorCal",
-                "address": "California",
-                "county": "Contra Costa",
-                "website": null,
-                "database": "Planned Parenthood",
-                "abortion": "abortion pill up to 11 weeks",
-                "birth_control": "appointment",
-                "emergency_contraception": null,
-                "gender_affirming_care": null,
-                "hiv_services": null,
-                "mental_health": null,
-                "std_testing_and_treatment": null,
-                "sexual_and_reproductive_concerns": null,
-                "iud_insertion_pain_management": null,
-                "vaccines": null,
-                "wellness_and_preventive_care": null,
-                "languages_offered_in": null,
-                "notes": null,
-                "pregancy_testing": null,
-                "payment_information": null,
-                "prenatal_and_postpartum_services": null
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -119.4179324,
-                    36.778261
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "index": "13",
                 "clinic": "Hayward Health Center",
                 "address": "1032 A Street Hayward, CA 94541",
