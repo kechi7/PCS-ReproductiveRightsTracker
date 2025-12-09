@@ -4,17 +4,17 @@
 
 /* Global styles */
 body {
-  font-family: Arial, sans-serif;
-  background-color: #d8c0eb;
-  color: #662d90;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  background-color: #1c0333;
   margin: 0;
   padding: 0;
 }
 
-h1, h2, h3 {
-  font-weight: bold;
-  color: #662d90;
-}
+/* h1, h2, h3 { */
+  /* font-weight: bold;
+} */
 a {
   text-decoration: none;
   color: #662d90;
