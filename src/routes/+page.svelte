@@ -6,7 +6,7 @@
 <nav class="navbar">
   <div class="nav-container">
     <a href="/" class="logo">
-      <img src="src/lib/assets/pcsLogo.png" alt="PCS Logo" class="nav-logo" />
+      <img src="/Users/nkechi7/PCS-ReproductiveRightsTracker/static/pcsLogo.png" alt="PCS Logo" class="nav-logo" />
     </a>
     <div class="nav-links">
       <a href="#map">Clinic Map</a>
@@ -121,7 +121,7 @@
 }
 
 .nav-logo {
-  height: 70px; /* Adjust this to your desired size */
+  height: 0px; /* Adjust this to your desired size */
   width: auto;
   display: block;
 }
