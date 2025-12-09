@@ -1132,7 +1132,7 @@
     display: grid;
     grid-template-columns: 320px 1fr;
     height: 600px;
-    background: #f5f5f5;
+    background: #1c0333;
     position: relative;
     border-radius: 12px;
     overflow: hidden;
